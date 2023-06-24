@@ -1,0 +1,172 @@
+{
+  "news": [
+    {
+      "idn": 1,
+      "name": "January Intake in Progress",
+      "subtitle": "Come all and join us as we begin with academic jou",
+      "dataOccuring": "2023-12-01",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "img": "",
+      "date": "2023-01-01 11:24:23",
+      "id": "jan"
+    },
+    {
+      "idn": 2,
+      "name": "Arrival of our Managers",
+      "subtitle": "Come all and join us as we begin with academic jou",
+      "dataOccuring": "2023-12-01",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "img": "",
+      "date": "2023-01-01 11:24:23",
+      "id": "ar"
+    },
+    {
+      "idn": 3,
+      "name": "Graduation of our students",
+      "subtitle": "Come all and join us as we begin with academic jou",
+      "dataOccuring": "2023-12-01",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "img": "",
+      "date": "2023-01-01 11:24:23",
+      "id": "grad"
+    },
+    {
+      "idn": 4,
+      "name": "Beginning of our Exams",
+      "subtitle": "Come all and join us as we begin with academic jou",
+      "dataOccuring": "2023-12-01",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "img": "",
+      "date": "2023-01-01 11:24:23",
+      "id": "beg"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Tour and Travelling",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "icon": "plane",
+      "teacher": "Felix Kibagendi",
+      "date": "2023-01-01 11:24:23"
+    },
+    {
+      "id": 2,
+      "name": "Culinary Arts",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "icon": "mortar-pestle",
+      "teacher": "Felix Kibagendi",
+      "date": "2023-01-01 11:24:23"
+    },
+    {
+      "id": 3,
+      "name": "Front Office Operations",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "icon": "bell-concierge",
+      "teacher": "Felix Kibagendi",
+      "date": "2023-01-01 11:24:23"
+    },
+    {
+      "id": 4,
+      "name": "Housekeeping and Laundry  ",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "icon": "jug-detergent",
+      "teacher": "Felix Kibagendi",
+      "date": "2023-01-01 11:24:23"
+    },
+    {
+      "id": 5,
+      "name": "Computer Packages    ",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ipsum totam aspernatur molestiae quo, autem exercitationem, animi corporis impedit numquam architecto nesciunt officiis praesentium, laborum aut incidunt. Tempora eos quidem, ullam id q",
+      "icon": "computer",
+      "teacher": "Felix Kibagendi",
+      "date": "2023-01-01 11:24:23"
+    }
+  ],
+  "staff": [
+    {
+      "id": 1,
+      "name": " Felix Kibagendi",
+      "occupation": " Manager",
+      "course": "French",
+      "image": "",
+      "facebook": "",
+      "twitter": "",
+      "date": "2023-01-01 11:24:23"
+    },
+    {
+      "id": 2,
+      "name": " Erick Lung'atzo",
+      "occupation": " Electrican",
+      "course": "Tour and Traveling",
+      "image": "",
+      "facebook": "",
+      "twitter": "",
+      "date": "2023-01-01 11:24:23"
+    },
+    {
+      "id": 3,
+      "name": " Jane Doe",
+      "occupation": " Driver",
+      "course": "House keeping and Laundry",
+      "image": "",
+      "facebook": "",
+      "twitter": "",
+      "date": "2023-01-01 11:24:23"
+    },
+    {
+      "id": 4,
+      "name": " Jane Doe",
+      "occupation": " Driver",
+      "course": "House keeping and Laundry",
+      "image": "",
+      "facebook": "",
+      "twitter": "",
+      "date": "2023-01-01 11:24:23"
+    },
+    {
+      "id": 5,
+      "name": " Jane Doe",
+      "occupation": " Driver",
+      "course": "House keeping and Laundry",
+      "image": "",
+      "facebook": "",
+      "twitter": "",
+      "date": "2023-01-01 11:24:23"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Barry Allen",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Voluptatibus temporibus velit tenetur atque facere debitis perferendis? Voluptatibus ipsa excepturi ut natus dignissimos beatae exercitationem corporis tempora, et, reprehenderit reiciendis dol ",
+      "occupation": "Driver",
+      "image": "",
+      "role": "parent",
+      "date": "2023-06-01 18:52:05"
+    },
+    {
+      "id": 2,
+      "name": "Iris West Allen",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Voluptatibus temporibus velit tenetur atque facere debitis perferendis? Voluptatibus ipsa excepturi ut natus dignissimos beatae exercitationem corporis tempora, et, reprehenderit reiciendis dol ",
+      "occupation": "Manager",
+      "image": "",
+      "role": "parent",
+      "date": "2023-06-01 18:52:05"
+    },
+    {
+      "id": 3,
+      "name": "Peter Sitoya",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Voluptatibus temporibus velit tenetur atque facere debitis perferendis? Voluptatibus ipsa excepturi ut natus dignissimos beatae exercitationem corporis tempora, et, reprehenderit reiciendis dol ",
+      "occupation": "Chef",
+      "image": "",
+      "role": "alumni",
+      "date": "2023-06-01 18:52:05"
+    }
+  ]
+}
